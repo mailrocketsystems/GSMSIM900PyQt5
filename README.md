@@ -12,4 +12,6 @@ https://pypi.org/project/pyembedded/
 
 UI has been created which allows us to make call to any number and send sms.
 
+![](img/img.PNG)
+
 
